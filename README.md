@@ -15,13 +15,13 @@ You can learn more and join us at [chingu.io]( http://chingu.io).
 # Built with
 This project was built with plain Html, CSS and javaScript as opposed to its original Bootstrap design which was built using Bootsstrap and Jquery.
 
- ![project image](https://github.com/Ifechukwudei/soloproject/blob/main/images/Screenshot%20(13).png)
+ ![project image](https://github.com/Ifechukwudei/soloproject/blob/main/images/PSX_20220712_164719.jpg)
  
- the basic layout of the web page was done using flex box and media queries were used to make page responsive on various devices.
+The basic layout of the web page was done using flexbox and media queries were used to make page responsive on various devices.
  # usage 
- The project can used anyone looking for a good and simple layout, for their web app or web page.
+ The project can used by anyone looking for a good and simple layout, for their web app or web page.
 # Acknowledgement
- My acknowledgement goes to the platforms for providing me the resources for this project
+ My acknowledgement goes to these platforms for providing me the resources for this project;
  * [unsplash](http://unsplash.com)
  * [chingu.io]( http://chingu.io)
  * [github pages](http://pages.github.com)
