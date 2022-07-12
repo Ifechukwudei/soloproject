@@ -1,8 +1,12 @@
 # soloproject
 # overview
 This project is a clone of an original boostrap template for the first tier chingu voyage application.
-# about chingu 
- fill with details of chingu
+# About chingu 
+ If you aren’t yet a member of Chingu we invite you to join us. We help our members transform what they’ve learned in courses & tutorials into the practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them into practice while gaining new “soft” skills like communication, collaboration, and Agile project management. The types of skills that help real-world teams get things done!
+
+You can learn more and join us at chingu.io.
 # Built with
 This project was built with plain Html, CSS and javaScript as opposed to its original Bootsrap design which was built using Bootsstrap and Jquery.
  /* screnshot of the layout on large and smaller screen*/
