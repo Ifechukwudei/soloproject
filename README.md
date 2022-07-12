@@ -1,6 +1,6 @@
 # soloproject
 # overview
-This project is a clone of an original boostrap template for the first tier chingu voyage application via http://chingu.io - automatic!.
+This project is a clone of an original boostrap template for the first tier chingu voyage application via [chingu.io]( http://chingu.io) .
 # About chingu 
  If you aren’t yet a member of Chingu we invite you to join us. We help our members transform what they’ve learned in courses & tutorials into the practical experience employers need and want.
 
