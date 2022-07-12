@@ -13,7 +13,7 @@ Our remote team projects let you refine your technical skills and put them into 
 
 You can learn more and join us at [chingu.io]( http://chingu.io).
 # Built with
-This project was built with plain Html, CSS and javaScript as opposed to its original Bootstrap design which was built using Bootsstrap and Jquery.
+This project was built with plain Html, CSS and javaScript as opposed to its original Bootstrap design which was built using Bootstrap and Jquery.
 
  ![project image](https://github.com/Ifechukwudei/soloproject/blob/main/images/PSX_20220712_164719.jpg)
  
